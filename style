@@ -1,0 +1,870 @@
+/*CSS TRANG VIEW CHUNG 2 HFLR*/
+* {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    box-sizing: border-box;
+    line-height: 24px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #14151a
+}
+
+img {
+    cursor: pointer;
+}
+
+i {
+    font-family: fontawesome, font-awesome;
+}
+.flex-div {    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify
+}
+.clear {
+    clear: both
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+#pI {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 179px;
+    background-color: #14151a
+}
+
+#pIKIF {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 36px;
+    background-color: #14151a
+}
+#pIKI1K2 {
+    margin: 0 auto;
+    width: 1198px;
+    height: 36px;
+    padding: 0;
+    background-image: linear-gradient(120deg, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e);
+    border: 1px solid #492e01;
+    overflow: hidden
+}
+    #pIKI1K2 a {
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 36px;
+        display: inline;
+        margin: 0 18px 0 18px
+    }
+
+.NhungV1A {
+    color: #ba0000;
+}
+
+.cE {
+    color: #ba0000;
+}
+
+.lM:before {
+    content: "\f185";
+    font-size: 16px;
+    font-family: FontAwesome;
+    color: yellow;
+}
+
+
+
+#pIK2F {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 107px;
+    background-color: #14151a
+}
+#pIKII1K2 {
+    margin: 0 auto;
+    padding: 0;
+    width: 1198px; 
+    height: 107px;   
+    overflow: hidden;
+}
+.BHvmcb1 {
+    margin: 0 auto;
+    padding: 0;
+    width: 1198px;
+    height: 107px;       
+}
+
+#pIK3F {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 36px;
+    background-color: #14151a
+}
+#pIKIII1K2 {
+    margin: 0 auto;
+    padding:0;
+    width: 1198px;
+    height: 36px;
+    background-image: linear-gradient(140deg, #01011e, #1e0101, #11002e, #000000, #11002e, #01011e, #1e0101);
+    border: 1px solid #492e01;
+    overflow: hidden
+}
+
+    #pIKIII1K2 a {
+        margin: 0;
+        color: #f9eec0;
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 34px;
+        padding: 4px 40px 4px 40px;
+        }
+
+    #pIKIII1K2 .nN:before {
+        content: "\f015";
+        font-family: FontAwesome;
+        font-size: 20px;
+    }
+
+    #pIKIII1K2 .dOCMTL{
+    color: #fdc855!important;
+    background-color: #713001!important;
+    line-height: 20px;
+    }
+
+    #pIKIII1K2 .nN:hover {
+        color: #fdc855;
+        background-color: #000;
+        border: 1px solid #3a0138;
+        border-radius: 5px
+    }
+    #pIKIII1K2 .vPHDMP:hover{
+        color: #fdc855;
+        background-color: #000;
+        border: 1px solid #3a0138;
+        border-radius: 5px
+    } 
+
+    #pIKIII1K2 .kHDHSX:hover {
+        color: #fdc855;
+        background-color: #000;
+        border: 1px solid #3a0138;
+        border-radius: 5px
+    }
+
+
+
+
+
+
+
+
+
+/* KHUNG BÀI VIẾT TRÁI */
+/*--------------------------------------------------------------*/
+#pII {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #14151a
+}
+
+#pII1k2 {
+    margin: 0 auto;
+    padding: 0;
+    width: 1198px;
+    /*height: 2507px;*/
+    background-image: linear-gradient(120deg, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e);
+    overflow: hidden;
+}
+
+#pIIKBBV {
+    margin: 0 auto;
+    padding: 0;
+    width: 1198px;
+    /*height: 2507px; */ 
+    text-align: center;
+    /*overflow: hidden;*/
+    background-color: #11002e
+}
+#pIIKBVT {
+    margin: 0;
+    padding: 0;
+    width: 204px;
+    height: 2507px;    
+    float: left;    
+    background-image: linear-gradient(120deg, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e);
+    border: 1px solid #492e01;
+    overflow: hidden;   
+}
+#pIIKBVTT {
+    border: 1px solid #01011e;
+    width: 202px;
+    height: 2507px;    
+    float: left;    
+    background-image: linear-gradient(120deg, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e);
+    border: 1px solid #000000;
+    overflow: hidden; 
+}
+
+#kCBVTT {
+    width: 182px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 0;
+    border: 1px solid #241700;
+    border-bottom-left-radius: 5px;
+    box-shadow: 2px 2px 1px #171718;
+    overflow: hidden;
+    background-color: #1f0000
+}
+
+    #kCBVTT ol {
+        background-image: radial-gradient(120deg, #01011e, #1e0101, #01011e);
+    }
+
+    #kCBVTT li {
+        background-image: radial-gradient(120deg, #01011e, #1e0101, #01011e);
+    }
+
+.cBVTT {
+    line-height: 26px;
+    font-size: 26px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 8px;
+    margin-left: -15px;
+    color: #b50000;
+}
+
+#kFT {
+    margin: 0 auto;
+    width: 200px;
+    height: 2499px;
+    position: sticky;
+    top: 149px;
+    left: 82px;
+    overflow: hidden;
+    overflow-x: hidden;
+}
+
+#kST {
+    margin: 0 auto;
+    padding: 0;
+    width: 196px;
+    height: 2470px;
+    overflow: scroll;
+    border: 1px solid #000000;    
+    overflow-x: hidden;
+}
+
+    #kST ol {
+        margin: -5px;
+        margin-top: 10px;
+        color: #df8857;
+    }
+
+    #kST li {
+        padding-right: 15px;
+        text-align: justify;
+        line-height: 24px;
+        color: #fdc1a0;
+    }
+
+    #kST li a {
+            color: #df8857;
+        }
+
+    .dXBV1 {
+        color: #fdc855 !important;
+        background-color: #4e2101;        
+        padding: 2px;
+        pointer-events: none
+    }
+
+    #kST li a:hover {
+        color: #fdc855;
+        background-color: #000;
+        border: 1px solid #3a0138;
+        border-radius: 5px;
+        padding: 2px;
+    }
+
+::-webkit-scrollbar {
+    width: 6px;
+    background-color: #240123;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #492e01;
+    border: 1px solid #241700;
+    border-radius: 10px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* KHUNG BÀI VIẾT GIỮA*/
+/* -------------------------------------------------------------------------*/
+#pIIKBVG {
+    margin: 0;
+    padding: 0;
+    width: 790px;
+    /*height: 2507px;*/
+    background-color: #000000;
+    float: left;
+    /*overflow: hidden*/
+}
+#pIIKBVGT {
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    /*height: 2507px;*/
+    background-color: #492e01;
+    text-align: center;
+    /*overflow: hidden*/
+}
+
+#kQC1KCA {/* KHUNG CHỨA ẢNH MÔ TẢ, THẺ H1, VÀ ĐỊNH NGHĨA RÚT GỌN CỦA BÀI VIẾT */
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    background-image: linear-gradient(120deg, #000, #1e0101, #000, #1e0101);
+    border: 1px solid #000000;
+    overflow: hidden;
+}
+
+.tB1 {
+    margin:0 auto;
+    padding:0;
+    margin-top: -5px;
+    color: #fef4d3;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#kTDOGTBV {
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    height: 60px;
+    background-image: linear-gradient(120deg, #000, #1e0101, #000, #1e0101);
+    border: 1px solid #fff;
+    overflow: hidden;
+}
+
+h1 {
+    color: #df8857;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 84px;
+}
+
+
+#kML {
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    height: 450px;    
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);    
+}
+
+#kMLT {
+    margin: 0 auto;
+    width: 720px;
+    height: 450px;
+}
+
+#kMLTT {
+    width: 360px;
+    height: 450px;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    border: 1px solid #4a494a;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+}
+
+#kCNDC {
+    margin: 0 auto;
+    height: 35px;
+    width: 360px;
+}
+
+.cNDC {
+    font-size: 16px;
+    color: #ff5c00;
+    font-weight: bold;
+    margin: 0 auto;
+    position: relative;
+    top: 10px;
+}
+
+
+#kNDML {
+    margin: 0 auto;
+    width: 300px;
+    height: 450px;
+    /*overflow: hidden;*/
+}
+
+    #kNDML ol {
+        list-style-type: decimal;
+        margin-left: -20px;
+        color: #b3b3fa;
+    }
+
+    #kNDML li {
+        text-align: justify;
+        line-height: 25px;
+        font-size: 14px;
+        font-weight: bold;
+        color: #b3b3fa;
+    }
+
+    #kNDML a {
+        color: #b3b3fa;
+    }
+
+
+
+
+#kTG {
+    width: 360px;
+    height: 450px;
+    float: left;
+    text-align: center;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    border: 1px solid #4a494a;
+}
+
+.kCATG {
+    margin: 0 auto;
+    width: 290px;
+    height: 290px;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid #4a494a;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    box-shadow: 2px 2px 1px #4a494a;
+    top: 10px;
+}
+
+.aTG {
+    margin: 0 auto;
+    width: 280px;
+    height: 280px;
+    position: relative;
+    top: 4px;
+    border-radius: 10px;
+    border: 1px solid #4a494a;   
+}
+
+.cTG {
+    margin: 0 auto;
+    color: #ff5c00;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+
+.lH {
+    margin: 0 auto;
+    width: 70px;
+    height: 24px;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    color: #df8857;
+    border-radius: 6px;
+    position: relative;
+    left: 110px;
+    top: -28px;
+    line-height: 24px;
+}
+
+.tS {
+    margin: 0 auto;
+    width: 70px;
+    height: 24px;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    color: #df8857;
+    border-radius: 6px;
+    position: relative;
+    left: -110px;
+    top: 20px;
+    line-height: 24px;
+}
+
+.tD {
+    margin: 0 auto;
+    width: 70px;
+    height: 24px;
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    color: #df8857;
+    border-radius: 6px;
+    position: relative;
+    left: -38px;
+    top: -4px;
+    line-height: 24px;
+}
+
+/* 11/10/2022: ĐANG SỬA TỪ ĐÂY*/
+#kNDBVC {/* khung nền full 788, bao tất cả*/
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    /*height: 1917px;*/
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    /*overflow: hidden;*/
+}
+#kNDBVCTF {/* khung cố định*/
+    margin: 0 auto;
+    padding: 0;
+    width: 788px;
+    /*height: 1919px;*/
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+    /*overflow: hidden;*/
+    /*border: 1px solid #FFF*/
+}
+#kNDBVCTS {/* khung cuộn*/
+    width: 788px;
+    /*height: 1918px;*/
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);
+}
+}
+
+.anhQCGiuaTo2 {
+    margin: 0 auto;
+    width: 716px;
+    height: 400px
+}
+.chuAdvertisement {
+    margin: 0;
+    font-size:16px;
+    background-color: #492e01;
+    line-height: 48px
+}
+
+/* PHẢI KIỂM TRA XÓA SỬA CÁC PHẦN TỬ VÔ DỤNG Ở ĐOẠN TRÊN */
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #df8857;
+}
+#h2_1 {  
+    line-height: 48px;
+    padding-right: 347px  
+}
+#theH2_2 {
+    padding-right: 14px;
+    line-height: 48px
+}
+#doanChuH2_2 {
+    text-align: justify;
+}
+#theH2_3 {
+    padding-right: 18px
+}
+#theH2_4 {    
+    line-height: 48px;
+    padding-right: 154px
+}
+#doanChuH2_4 {
+    text-align: justify
+}
+#khungAnhMinhHoa1 {
+    margin: 0 auto;
+    width: 720px;
+    height: 140px;
+    background-image: linear-gradient(180deg, #2a0021, #04001f, #00041f, #000000, #00041f, #04001f, #2a0021 );
+    border: 1px solid #241700;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;    
+    overflow: hidden;
+}
+
+#theH2_5{
+   line-height: 48px;
+   padding-right: 8px
+}
+#theH2_6 {
+    line-height: 48px;
+    padding-right: 56px
+}
+#doanChuH2_6 {
+    text-align: justify
+}
+#theH2_7 {
+    padding-right: 10px;
+    line-height: 48px   
+}
+#doanChuH2_7 {
+    text-align: justify;
+    justify-content: center;
+}
+.gTh {
+    color: #ffffff;
+    font-size: 16px;
+    padding-right: 334px;
+}
+#kNDBVCT1 {
+    width: 720px;
+    margin: 0 auto;
+    overflow: hidden;  
+    background-image: linear-gradient(120deg, #1e0101, #000, #1e0101, #000, #1e0101);  
+    border: 1px solid #241700;
+}
+
+#kNDBVCT1 ol {
+    margin-left: -20px;
+}
+#kNDBVCT1 li {
+    color: #b6b5b5;
+    font-size: 16px;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+#kNDBVCT1 p {
+    color: #b6b5b5;
+    font-size: 16px;
+    margin-bottom: 20px
+}
+
+.dangKyNhanBanTin {
+    text-decoration: underline;
+    color: #b50000;
+    display: inline-block;
+    font-weight: bold
+}
+.dangKyKhoaHocHVMCB1 {
+    text-decoration: underline;
+    color: #b50000;
+    display: inline-block;
+    font-weight: bold
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* KHUNG QUẢNG CÁO PHẢI */
+/*------------------------------------------------------------------------------------------------*/
+
+#pIIKQCBPBV { 
+    margin: 0;
+    padding: 0;
+    width: 203px;
+    height: 2507px;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+    background-image: linear-gradient(190deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101 );
+    border: 1px solid #492e01;
+    margin-left: 1px;
+}
+
+#pIIKQCBPBVT { 
+    margin: 0 auto;
+    padding: 0;
+    width: 199px;
+    height: 2507px;
+    overflow: hidden;
+    border: 1px solid #01011e;
+    background-image: linear-gradient(190deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101 );
+}
+
+#kQCP180 {
+    margin: 0 auto;
+    padding: 0;
+    width: 180px;
+    height: 2506px;
+    overflow: hidden;
+    background-image: linear-gradient(190deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101, #01011e, #1e0101 );
+    
+}
+
+#kQCPA1 {
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 16px;
+    width: 180px;
+    height: 480px;
+    background-image: linear-gradient(120deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101);
+    overflow: hidden;
+    position: sticky;
+    border: 1px solid #241700;
+}
+
+#kQCPA2 {
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 0px;
+    width: 180px;
+    height: 480px;
+    overflow: hidden;
+    position: sticky;
+    background-image: linear-gradient(120deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101);
+    border: 1px solid #241700;
+}
+
+#kQCPA3 {
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 180px;
+    height: 480px;
+    overflow: hidden;
+    position: sticky;
+    background-image: linear-gradient(120deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101);
+    border: 1px solid #241700;
+}
+
+#kQCPA4 {
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 180px;
+    height: 480px;
+    overflow: hidden;
+    position: sticky;
+    background-image: linear-gradient(120deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101);
+    border: 1px solid #241700;
+}
+
+#kQCPA5 {
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 180px;
+    height: 480px;
+    overflow: hidden;
+    position: sticky;
+    background-image: linear-gradient(120deg, #1e0101, #01011e, #1e0101, #01011e, #1e0101);
+    border: 1px solid #241700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------*/
+
+#pIII {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 600px;
+    background-color: #14151a
+}
+#pIIIF {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 600px;
+    background-color: #14151a
+}
+#pIII1k2 {
+    margin: 0 auto;
+    padding: 0;
+    width: 1198px; 
+    height: 600px;   
+    background-color: #11002e;
+    overflow: hidden;
+}
+
+
+/* HẾT CSS TRANG VIEW CHUNG 2 HFLR*/
+
+/*CSS VIEW RIÊNG TRANG TÀI LIỆU LẤY TỪ FILE NDGTBV*/
+
+/*HẾT VIEW RIÊNG TRANG TÀI LIỆU LẤY TỪ FILE NDGTBV*/
